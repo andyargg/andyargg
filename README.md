@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning web design 
 - 🤔 I’m looking for help with learning more about programming and have a job for in the future
+- Studying poo with Python
 
 -->
