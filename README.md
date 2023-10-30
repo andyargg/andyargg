@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning web design 
 - 🤔 I’m looking for help with learning more about programming and have a job for in the future
-- Studying poo with Python
-
+-My carreer is Programming Technician. 1st year
+- Studying poo/archives with Python
+- Learning games development with pygame
 -->
