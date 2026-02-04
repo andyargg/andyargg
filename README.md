@@ -34,7 +34,7 @@ Flutter Developer specializing in BLoC architecture and scalable mobile applicat
 
 ## Featured Projects
 
-### 🚢 [Rastro](https://github.com/andyargg/rastro)
+### 🚢 [Rastro](https://github.com/andyargg/rastroMobile)
 Multi-courier shipment tracking app with custom authentication system
 - **Tech:** Flutter, BLoC, Supabase, Resend API
 - **Highlights:** Custom OTP, Multi-provider auth, Material Design 3
