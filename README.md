@@ -28,7 +28,7 @@ Java & Spring Boot. Microservices in production. Ships mobile apps solo.
 **[job-queue-system](https://github.com/andyargg)** — in progress  
 Async job processing with RabbitMQ + Spring Boot. Dead letter queues, retry logic, job status tracking. Built to handle load, not just handle requests.
 
-**[spanish5000]([https://github.com/andyargg](https://apps.apple.com/es/app/fluent-5000/id6742911664))**  
+**[spanish5000](https://apps.apple.com/es/app/fluent-5000/id6742911664)**  
 Solo-built language learning app live in 19 countries. Flutter + BLoC + Gemini AI. In-app payments, TTS/STT, offline-first. Zero team, full ownership.
 
 **[rastro](https://github.com/andyargg/rastroMobile)**  
