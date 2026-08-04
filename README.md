@@ -30,7 +30,7 @@ Java & Spring Boot. Microservices in production. Ships mobile apps solo.
 
 ## Projects
 
-**[job-queue-system](https://github.com/andyargg)** — in progress  
+**[job-queue-system](https://github.com/andyargg)** — Done
 Async job processing with RabbitMQ + Spring Boot. Dead letter queues, retry logic, job status tracking. Built to handle load, not just handle requests.
 
 **[spanish5000](https://apps.apple.com/es/app/fluent-5000/id6742911664)**  
@@ -41,7 +41,7 @@ Multi-courier tracking app. Flutter + Supabase. Custom OTP auth, Material Design
 
 ## Currently
 
-- Backend Developer @ América Virtual — REST APIs, microservices, Java, PostgreSQL in production
+- FullStack Developer @ América Virtual — REST APIs, microservices, Java, PostgreSQL in production
 - Building distributed systems from scratch: job queue → rate limiter → rules engine
 - Buenos Aires — open to remote
 
