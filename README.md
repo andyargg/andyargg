@@ -41,7 +41,7 @@ Multi-courier tracking app. Flutter + Supabase. Custom OTP auth, Material Design
 
 ## Currently
 
-- FullStack Developer @ América Virtual — REST APIs, microservices, Java, PostgreSQL in production
+- FullStack Developer @ NetworkCore — REST APIs, microservices, Java, PostgreSQL in production
 - Building distributed systems from scratch: job queue → rate limiter → rules engine
 - Buenos Aires — open to remote
 
